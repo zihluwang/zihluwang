@@ -63,3 +63,5 @@ tlccJ9VnUiVY+I4=
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
 </details>
+
+> All **PGP Public Key** can be accessed from ubuntu keyserver
