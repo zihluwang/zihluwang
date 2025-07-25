@@ -56,24 +56,11 @@ Welcome to my GitHub profile! I'm passionate about technology and love building 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zihluwang&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎯 Current Goals
-
-- [ ] Contribute to more open source projects
-- [ ] Learn new programming languages
-- [ ] Build scalable applications
-- [ ] Share knowledge through blogging
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=GitHub&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:real@zihluwang.me)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://zihluwang.me)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/zihluwang)
 
 ## 🔐 Security & Verification
 
